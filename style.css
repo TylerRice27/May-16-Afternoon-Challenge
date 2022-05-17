@@ -1,0 +1,18 @@
+body {
+    background-image: url("football-field.jpg");
+    background-size: cover;
+}
+
+.reset {
+    background-color: red;
+}
+
+i {
+    color: red;
+}
+
+.sea-logo {
+    object-fit: contain;
+    width: 307px;
+    height: 225px;
+}
