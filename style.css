@@ -11,8 +11,9 @@ i {
     color: red;
 }
 
-.sea-logo {
+.logo {
     object-fit: contain;
     width: 307px;
     height: 225px;
+    transform: scaleX(-1);
 }
